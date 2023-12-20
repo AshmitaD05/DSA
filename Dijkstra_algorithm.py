@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 20 23:45:02 2023
-
-@author: Ashmita
-"""
-
 import heapq   
 import networkx as nx   
 import matplotlib.pyplot as plt   
